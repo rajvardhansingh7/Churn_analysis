@@ -22,7 +22,6 @@ Churn_analysis/
 ├── customer_churn.db                 # SQLite database (3 tables)
 ├── customer_churn_data_raw.xlsx      # Raw Excel source data
 ├── exported_churn_data.csv           # Processed merged dataset (notebook output)
-├── Data Analytics Project -Churn Analysis Report.pdf
 ├── requirements.txt
 └── README.md
 ```
